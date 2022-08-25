@@ -1,0 +1,1 @@
+# dictionary-abbreviation-for-software-developers.
